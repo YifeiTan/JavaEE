@@ -1,6 +1,3 @@
-.idea
-*.iml
 target/
-settings.xml
-.classpath
-.project
+.idea/
+*.iml
